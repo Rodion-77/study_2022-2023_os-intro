@@ -1,8 +1,8 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Лабораторная работа № 
-subtitle: 
+title: Лабораторная работа № 12
+subtitle: Программирование в командном процессоре ОС UNIX. Командные файлы
 author:
   - Павличенко Родион Андреевич
 institute:
@@ -43,28 +43,18 @@ header-includes:
 
 # Выполнение лабораторной работы
 
-## 
+## Создаем папку backup и файл task1.txt
 
 :::::::::::::: {.columns align=center}
 ::: {.column width="30%"}
 
 ![](image/1.png)
-
-:::
-::::::::::::::
-
-## 
-
-:::::::::::::: {.columns align=center}
-::: {.column width="30%"}
-
 ![](image/2.png)
 
 :::
 ::::::::::::::
 
-
-## 
+## Пишем код в файле
 
 :::::::::::::: {.columns align=center}
 ::: {.column width="30%"}
@@ -74,7 +64,9 @@ header-includes:
 :::
 ::::::::::::::
 
-## 
+
+## Запускаем файл
+
 :::::::::::::: {.columns align=center}
 ::: {.column width="30%"}
 
@@ -83,7 +75,7 @@ header-includes:
 :::
 ::::::::::::::
 
-## 
+## Создаем файл task2.txt и выдаем права
 
 :::::::::::::: {.columns align=center}
 ::: {.column width="30%"}
@@ -93,7 +85,7 @@ header-includes:
 :::
 ::::::::::::::
 
-## 
+## Пишем код в файле
 
 :::::::::::::: {.columns align=center}
 ::: {.column width="30%"}
@@ -103,9 +95,49 @@ header-includes:
 :::
 ::::::::::::::
 
-# Домашнее задание
+## Создаем файл task3.txt и выдаем права
+
+:::::::::::::: {.columns align=center}
+::: {.column width="30%"}
+
+![](image/7.png)
+
+:::
+::::::::::::::
+
+## Пишем код в файле
+
+:::::::::::::: {.columns align=center}
+::: {.column width="30%"}
+
+![](image/8.png)
+
+:::
+::::::::::::::
+
+## Создаем файл task4.txt и выдаем права
+
+:::::::::::::: {.columns align=center}
+::: {.column width="30%"}
+
+![](image/9.png)
+
+:::
+::::::::::::::
+
+## Пишем код в файле
+
+:::::::::::::: {.columns align=center}
+::: {.column width="30%"}
+
+![](image/10.png)
+
+:::
+::::::::::::::
 
 
 ## Вывод
+
+Изучили основы программирования в оболочке ОС UNIX/Linux. Научились писать небольшие командные файлы.
 
 
